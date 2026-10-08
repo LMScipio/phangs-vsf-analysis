@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# PHANGS-ALMA data and pipeline output
+data/
+results/
